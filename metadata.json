@@ -1,0 +1,8 @@
+{
+  "name": "UBAID ULLAH ENTERPRISES – International Scholarship-Assessment Tool",
+  "description": "Empowering Global Academic Opportunities. Evaluate academic qualifications, research profiles, scholarship eligibility, international university matches, and downloadable assessment reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
